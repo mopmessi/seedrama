@@ -12,7 +12,7 @@
 "asianembed": "https?:\\/\\/(([0-9a-zA-Z]+)\\.)?(asianembed|gogoplay)\\.[^\\/,^\\.]{2,}\\/.+",
 "kobatube": "https?:\\/\\/(([0-9a-zA-Z]+)\\.)?(kobatube)\\.[^\\/,^\\.]{2,}\\/.+",
 "uqload": "https?:\\/\\/(([0-9a-zA-Z]+)\\.)?(uqload)\\.[^\\/,^\\.]{2,}\\/.+",
-"arabseed": "https?:\\/\\/(([0-9a-zA-Z]+)\\.)?(upstream|allviid|vid3sk|vidlo|vidpro|vidlook)\\.[^\\/,^\\.]{2,}\\/.+",
+"arabseed": "https?:\\/\\/(([0-9a-zA-Z]+)\\.)?(upstream|zodaq|allviid|vid3sk|vidlo|vidpro|vidlook)\\.[^\\/,^\\.]{2,}\\/.+",
 "streamtape": "https?:\\/\\/(www\\.)?(xcbxcbxcbxcbxcbxcbdfbnnxcvx)\\.[^\\/,^\\.]{2,}\\/.+",
 "femax20": "https?:\\/\\/(([0-9a-zA-Z]+)\\.)?(femax20|kawaiifansub|otcplay|mifilm|ff-dns|pp-dns|ll-dns|psadns|suzihaza|manasx|kotakajair|mycineplay|diampokusy|oracleclouds|vcdn)\\.[^\\/,^\\.]{2,}\\/(v|f)\\/.+",
 "pocketnow": "https?:\\/\\/(([0-9a-zA-Z]+)\\.)?(pocketnow|vcdn)\\.[^\\/,^\\.]{2,}\\/(v|f)\\/.+",
