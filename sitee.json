@@ -8,7 +8,7 @@
 "vedsharr": "https?:\\/\\/(([0-9a-zA-Z]+)\\.)?(vedsharr)\\.[^\\/,^\\.]{2,}\\/.+",
 "basevid": "https?:\\/\\/(([0-9a-zA-Z]+)\\.)?(mwdy|miravd|vidroba)\\.[^\\/,^\\.]{2,}\\/.+",
 "basevid2": "https?:\\/\\/(([0-9a-zA-Z]+)\\.)?(vidspeeds|anavidz|anafasts|vidbam|vadbom|vidshar|viidshar|viiidshar|viiiidshar|vadshar|viidsharr|viidshar|liiivideo|anyvids)\\.[^\\/,^\\.]{2,}\\/.+", 
-"wecima": "https?:\\/\\/(([0-9a-zA-Z]+)\\.)?(weciimaa|wecima|mycimmaa)\\.[^\\/,^\\.]{2,}\\/.+",
+"wecima": "https?:\\/\\/(([0-9a-zA-Z]+)\\.)?(weciimaa|wecima|mycimmaa|zodaq)\\.[^\\/,^\\.]{2,}\\/.+",
 "moshahda": "https?:\\/\\/(([0-9a-zA-Z]+)\\.)?(moshahda)\\.[^\\/,^\\.]{2,}\\/.+",
 "asianembed": "https?:\\/\\/(([0-9a-zA-Z]+)\\.)?(asianembed|gogoplay)\\.[^\\/,^\\.]{2,}\\/.+",
 "kobatube": "https?:\\/\\/(([0-9a-zA-Z]+)\\.)?(kobatube)\\.[^\\/,^\\.]{2,}\\/.+",
