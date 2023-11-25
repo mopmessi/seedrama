@@ -60,7 +60,7 @@
 "gvid": "https?:\\/\\/(www\\.)?(gvid)\\.[^\\/,^\\.]{2,}\\/.+",
 "vidoza": "https?:\\/\\/(([0-9a-zA-Z]+)\\.)?(vidoza)\\.[^\\/,^\\.]{2,}\\/.+",
 "vudeo": "https?:\\/\\/(([0-9a-zA-Z]+)\\.)?(vudeo|arteenz|xvideosharing)\\.[^\\/,^\\.]{2,}\\/.+",
-"vidmoly": "govid|goved|goveed|ved2om|1govad|goveed1|go2ved|vid2bom|gov1ad|anamov|vidmoly|viidshar|vid1shar|vadbam|vadbam1|vid1bom|vedbam1|viboom1|viboom|viid2beem|govad|albrq|anaturk|gvadz|vidspeeds|anavidz|anafasts|vidoba|vidspeed|anafast|anafast|vidoza|viidspeed|vidspeeed|vidlox|myviid|anavidz|anafasts",
+"vidmoly": "govid|goved|goveed|ved2om|1govad|goveed1|go2ved|vid2bom|vigobm|ge-void|gov1ad|anamov|vidmoly|viidshar|vid1shar|vadbam|vadbam1|vid1bom|vedbam1|viboom1|viboom|viid2beem|govad|albrq|anaturk|gvadz|vidspeeds|anavidz|anafasts|vidoba|vidspeed|anafast|anafast|vidoza|viidspeed|vidspeeed|vidlox|myviid|anavidz|anafasts",
 "youtube": "https?:\\/\\/(([0-9a-zA-Z]+)\\.)?(youtube)\\.[^\\/,^\\.]{2,}\\/.+",
 "xvideosharing": "https?:\\/\\/(([0-9a-zA-Z]+)\\.)?(streamvid)\\.[^\\/,^\\.]{2,}\\/.+",
 
