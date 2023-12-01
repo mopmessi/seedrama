@@ -11,7 +11,7 @@
 	"videoBIN": "https?:\\/\\/(www\\.)?(videobin)",
 	"vudeo": "https?:\\/\\/(www\\.)?(vudeo)",
 	"vidhd": "https?:\\/\\/(www\\.)?(vidhd|oktube|sbrapid|ahvsh)",
-	"uppom": "https?:\\/\\/(www\\.|m\\.|up\\.)?(elbarq|cdnupbom|upgobom|up2b9om|updown)",
+	"uppom": "elbarq|cdnupbom|upgobom|up2b9om|updown|up2bom",
 	"sevenUp": "https?:\\/\\/(www\\.)?(7-up)",
 	"sandUp": "https?:\\/\\/(www\\.)?(sandup)",
 	"govid": "https?:\\/\\/(www\\.)?(extremenow|krakenfiles|extreamnow|vigom1|g1ov3d|goo1vd|v.aflam)",
