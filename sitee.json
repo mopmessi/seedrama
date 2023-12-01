@@ -1,5 +1,5 @@
 {
-	"m3u8s": "vidhdr|vidoba|vidroba|asiatv|arabturk|arabveturk|moshahda|mwdy.cc|miravd.com|sendvid|vtube.to|vod66|anafast|dailymotion|anaturk|albrq|faselhd",
+	"m3u8s": "vidhdr|vidoba|vidroba|asiatv|arabturk|arabveturk|moshahda|mwdy.cc|miravd.com|sendvid|vtube.to|vod66|anafast|anamov|dailymotion|anaturk|albrq|faselhd",
 	"mp4upload": "https?:\\/\\/(www\\.)?(mp4upload|mega4upload)",
 	"filerio": "https?:\\/\\/(www\\.)?(filerio)",
 	"sendvid": "https?:\\/\\/(www\\.)?(sendvid)",
@@ -21,7 +21,7 @@
 	"ydBox": "https?:\\/\\/(www\\.)?(youuuuuuudbox)",
 	"videoBee": "https?:\\/\\/(www\\.)?(thevideobee)",
 	"moshahda": "https?:\\/\\/(www\\.)?(moshahda)",
-	"vidShare": "https?:\\/\\/(www\\.|v\\.)?(arabturk|allviid|arabveturk|anafast|vidoba|a1.liiivideo|w.anaturk|v.albrq|vidoba|vidroba|v2d2shr)",
+	"vidShare": "https?:\\/\\/(www\\.|v\\.)?(arabturk|allviid|arabveturk|anafast|anamov|w.anamov|vidoba|a1.liiivideo|w.anaturk|v.albrq|vidoba|vidroba|v2d2shr)",
 	"watchVideo": "https?:\\/\\/(www\\.)?(watchvideo)",
 	"vidhdr": "https?:\\/\\/(www\\.)?(vidhdr|mwdy.cc|miravd.com|vtube.to|a2.vod7|a9.vod7|vod540)",
 	"vidia": "https?:\\/\\/(www\\.)?(vidia)",
