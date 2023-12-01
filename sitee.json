@@ -15,7 +15,7 @@
 	"sevenUp": "https?:\\/\\/(www\\.)?(7-up)",
 	"sandUp": "https?:\\/\\/(www\\.)?(sandup)",
 	"govid": "https?:\\/\\/(www\\.)?(extremenow|krakenfiles|extreamnow|vigom1|g1ov3d|goo1vd|v.aflam)",
-	"uqlaod": "https?:\\/\\/(www\\.)?(uqload)",
+	"uqlaod": "uqload",
 	"akwam": "https?:\\/\\/(www\\.|ar\\.|one\\.)?(akwam)",
 	"vidbm": "https?:\\/\\/(www\\.)?(vidboooooom)",
 	"ydBox": "https?:\\/\\/(www\\.)?(youuuuuuudbox)",
