@@ -49,7 +49,7 @@
 	"vimeo": "https?:\\/\\/(www\\.)?(player.vimeo)",
 	"faselhd": "https?:\\/\\/(www\\.)?(faselhd|embed.scdn)",
 	"allvid": "https?:\\/\\/(www\\.)?(allviidss|a2.all-vid)",
-        "allsite": "anamov",
+        "allsite": "(?:(?:https?|ftp|file):\\/\\/|www\\.|ftp\\.)(?:\\([-A-Z0-9+&@#\\/%=~_|$?!:,.]*\\)|[-A-Z0-9+&@#\\/%=~_|$?!:,.])*(?:\\([-A-Z0-9+&@#\\/%=~_|$?!:,.]*\\)|[A-Z0-9+&@#\\/%=~_|$])",
 	"ydBox2": "https?:\\/\\/(www\\.)?(youdbox|yodbox)"
 
 
