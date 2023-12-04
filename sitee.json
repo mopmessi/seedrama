@@ -12,6 +12,6 @@
 	"faselhd": "faselhd|fasellhd|faaselhd|faseelhd|faasseelhd|faselhdd|faasellhd|fassellhd",
 	"wecima": "weciimaa|wecima|mycimmaa|mycima1",
 	"akwam": "akwnet|sv|ak.sv",
-	"hdup": "hd-cdn|hdup7|hdup|hdup3|hdup|p4.hd-cdn|p6.hd-cdn|film77|seedrama.film77|sp29.film77",
+	"hdup": "hd-cdn|hdup7|hdup|hdup3|hdup|hd-cdn|film77|seedrama.film77|sp29.film77",
         "allsite": "(?:(?:https?|ftp|file):\\/\\/|www\\.|ftp\\.)(?:\\([-A-Z0-9+&@#\\/%=~_|$?!:,.]*\\)|[-A-Z0-9+&@#\\/%=~_|$?!:,.])*(?:\\([-A-Z0-9+&@#\\/%=~_|$?!:,.]*\\)|[A-Z0-9+&@#\\/%=~_|$])"
 }
