@@ -1,1 +1,5 @@
-
+{
+  "api_url": "https://example.com/api",
+  "app_version": "1.0.0",
+  "debug_mode": false
+}
