@@ -1,5 +1,7 @@
 {
-  "api_url": "https://app2.seedrama.vip/api",
-  "app_version": "1.0.0",
-  "debug_mode": false
+  "api_url": "https://app2.seedrama.vip/api/",
+  "secure_key": "4F5A9C3D9A86FA54EACEDDD635185",
+  "youtube_key": "AIzaSyAephi0fVTEBXgphX7Z_WVSW8iPusDibtg",
+  "item_purchase_code": "d506abfd-9fe2-4b71-b979-feff21bcad13",
+  "subscription_id": "com.seedrama.orgs.subs"
 }
