@@ -1,7 +1,7 @@
 {
 	"mixdrop": "mdy48tn97|mdbekjwqa|mxdrop",
 	"mediafire": "mediafire",
-	"liivideo": "anavidz|liiivideo|anyvids|vidara|bysekoze|stmruby|watch-rmdan|anafast|vidtube|vk.com|vidoba|earnvids|mixdrop|hgcloud",
+	"liivideo": "anavidz|liiivideo|anyvids|vidara|bysekoze|stmruby|watch-rmdan|anafast|vidtube|vk.com|vidoba|earnvids|mixdrop|hgcloud|filemoon",
 	"vidpro": "allviid|vid3sk|vidlo|vidpro|vidlook|a2.all-vid|edbrdl7pab|vidspeed|vidhideplus|okprime|e4xb5c2xnz|niikaplayerr|smoothpre|anime7u|cybervynx|anime4low|dhcplay|haxloppd|vdbtm",
 	"okru": "https?:\\/\\/(www.|m.)?(games.ok|ok)\\.[^\\/,^\\.]{2,}\\/(video|games.ok|videoembed)\\/.+",
 	"dailymotion": "ailymotion",
@@ -13,6 +13,6 @@
 	"wecima": "weciimaa|wecima|mycimmaa|mycima1|t4ce4ma",
 	"akwam": "akwnet|sv|ak.sv",
 	"hdup": "hd-cdn|hdup7|hdup|hdup3|hdup|hd-cdn|p6.hd-cdn|film77|seedrama.film77|sp29.film77",
-	"allsite": "(?:(?:https?|ftp|file):\\/\\/|www\\.|ftp\\.)(?:\\([-A-Z0-9+&@#\\/%=~_|$?!:,.]*\\)|[-A-Z0-9+&@#\\/%=~_|$?!:,.])*(?:\\([-A-Z0-9+&@#\\/%=~_|$?!:,.]*\\)|[A-Z0-9+&@#\\/%=~_|$]|bigwarp|turbovid|filemoon)"
+	"allsite": "(?:(?:https?|ftp|file):\\/\\/|www\\.|ftp\\.)(?:\\([-A-Z0-9+&@#\\/%=~_|$?!:,.]*\\)|[-A-Z0-9+&@#\\/%=~_|$?!:,.])*(?:\\([-A-Z0-9+&@#\\/%=~_|$?!:,.]*\\)|[A-Z0-9+&@#\\/%=~_|$]|bigwarp|turbovid)"
 
 }
